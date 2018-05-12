@@ -1,0 +1,35 @@
+_repo: Contributions-to-the-Theory-of-Natural-SelectionA-Series-of-Essays_22428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, Russell
+    - Wallace, A. R. (Alfred Russel)
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: pt. 1. Contributions to the Theory of Natural Selection / Alfred Russel
+  Wallace -- pt. 2. On the Tendency of Species to Form Varieties / Charles Darwin
+  and Alfred Russel Wallace.
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural selection'
+title: 'Contributions to the Theory of Natural Selection
+
+  A Series of Essays'
+url: http://www.gutenberg.org/ebooks/22428
